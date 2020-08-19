@@ -5,7 +5,7 @@ Text2Image is a Python script that takes some text and generates an image in .pn
 
 ### To-Do
 
-1. Create images *responsively*, based on length of poem
+1. Create images *responsively*, based on length of text
 2. Optimize font renderings
 3. Create user interface
 
